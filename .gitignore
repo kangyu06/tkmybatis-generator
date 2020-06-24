@@ -1,0 +1,54 @@
+### other ###
+target/
+bin/
+.mvn/
+Thumbs.db
+*.swp
+catalina.base_IS_UNDEFINED
+build/
+hs_err_pid*
+dump.rdb
+.flattened-pom.xml 
+### log ###
+*.log
+*.bak
+
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.gradle
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+*.DS_Store
+
+### NetBeans ###
+nbproject/private/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+*.err
+src/main/java/com/ess/framework/boot/
+src/main/resources/template/feignClient.ftl
+src/test/java/
+src/test/resources/SiteTest.txt
+src/test/resources/mapper/
+
+src/test/resources/*
