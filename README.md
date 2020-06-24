@@ -1,0 +1,2 @@
+# tkmybatis-generator
+hello generator
